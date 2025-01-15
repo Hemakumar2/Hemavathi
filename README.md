@@ -1,4 +1,5 @@
-FACE RECOGNITION 
+FACE RECOGNITION :
+
 Real-Time Object Classification using Teachable Machine
 This project demonstrates how to create a real-time object classification system using a webcam and a model trained with Google Teachable Machine. The Python script uses TensorFlow, OpenCV, and NumPy to classify objects and display predictions with confidence scores.
 
